@@ -1,6 +1,7 @@
 # LogRT-model for vigor learning in the monetary incentive delay task
 
 ![Overview](https://raw.githubusercontent.com/da-wi/vigor_learning/master/overview.png)
+Model overview from Willinger et al. (2021).
 
 The functions provided in this repository provide the log-response time model for vigor learning in the [monetary incentive delay task](https://github.com/da-wi/mid_fmri_task) as used in Willinger et al. (2021) and Willinger et al. (2022). The scripts work for the [TAPAS](https://github.com/translationalneuromodeling/tapas) toolbox in MATLAB.
 
@@ -47,8 +48,8 @@ This software is based on the work of Chris Mathys (HGF Toolbox) that is part of
 
 ## References 
 
-- Frässle, S., et al. (2021). TAPAS: An Open-Source Software Package for Translational Neuromodeling and Computational Psychiatry. Frontiers in Psychiatry, 12:680811. https://doi.org/10.3389/fpsyt.2021.680811
+- Frässle, S., et al. (2021). TAPAS: An Open-Source Software Package for Translational Neuromodeling and Computational Psychiatry. _Frontiers in Psychiatry_, 12:680811. https://doi.org/10.3389/fpsyt.2021.680811
 
-- Willinger, D., Karipidis, I. I., Dimanova, P., Walitza, S., & Brem, S. (2021). Neurodevelopment of the incentive network facilitates motivated behaviour from adolescence to adulthood. _NeuroImage_, 237, 118186.
+- Willinger, D., Karipidis, I. I., Dimanova, P., Walitza, S., & Brem, S. (2021). Neurodevelopment of the incentive network facilitates motivated behaviour from adolescence to adulthood. _NeuroImage_, 237, 118186. https://doi.org/10.1016/j.neuroimage.2021.118186
 
-- Willinger, D., Karipidis, I. I., Neuer, S., Emery, S., Rauch, C., Häberling, I., ... & Brem, S. (2022). Maladaptive avoidance learning in the orbitofrontal cortex in adolescents with major depression. _Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 7_ (3), 293-301.
+- Willinger, D., Karipidis, I. I., Neuer, S., Emery, S., Rauch, C., Häberling, I., ... & Brem, S. (2022). Maladaptive avoidance learning in the orbitofrontal cortex in adolescents with major depression. _Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 7_ (3), 293-301. https://doi.org/10.1016/j.bpsc.2021.06.005
